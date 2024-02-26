@@ -1,0 +1,17 @@
+{
+  "name": "practicanode",
+  "version": "1.0.0",
+  "description": "Base con cors implementado",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "*",
+    "express": "*",
+    "nodemon": "^3.0.3"
+  },
+  "author": "Juanpisito",
+  "license": "ISC"
+}
